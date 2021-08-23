@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StyleMusicTime">
+        <item name="android:textSize">@dimen/sp_18</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:text">@string/time_music</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/dp_25</item>
+    </style>
+</resources>
